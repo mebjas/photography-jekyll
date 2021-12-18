@@ -1,7 +1,7 @@
 # Base configs
-baseurl: "https://blog.minhazav.dev/photography-jekyll/"
-image_fulls_loc: "https://blog.minhazav.dev/photography-jekyll//images/fulls"
-image_thumbs_loc: "https://blog.minhazav.dev/photography-jekyll//images/thumbs"
+baseurl: ""
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
 google_analytics: ""
 
 # UI configs
